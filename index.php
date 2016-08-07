@@ -1,3 +1,7 @@
+<?php
+    include_once "include/core.php";
+
+?>
 
 <div class="row wow shake">
     <div class="col-md-12">

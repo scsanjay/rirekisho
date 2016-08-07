@@ -1,4 +1,4 @@
-
+<?php require_once "include/core.php" ?>
 <div class="row wow shake">
     <div class="col-md-12">
         <div class="col-lg-offset-3 col-xs-12 col-lg-6">
